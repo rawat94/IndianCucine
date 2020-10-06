@@ -2,9 +2,8 @@
 {
     background-color: coral;
 }
-.Logo
+
+.navbar-nav
 {
-    
-    width: 30%;
-    height: 30%;
+    margin-left:300px;
 }
